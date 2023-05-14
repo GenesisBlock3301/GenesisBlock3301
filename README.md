@@ -15,7 +15,7 @@
 
 - 🌱 Problem solver at Leetcode.
 
-- 🌱 I’m currently learning Golang <a href="https://go.dev/doc/" target="blank">GolangDoc</a>
+- 🌱 I’m currently learning Golang <a href="https://go.dev/doc/" target="blank">Go Doc</a>
 
 - 📝 I regularly write articles on [https://medium.com/@nastech](https://medium.com/@nastech)
 
